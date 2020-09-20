@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.22711d01.chunk.css",
+    "main.js": "/static/js/main.343ddcb3.chunk.js",
+    "main.js.map": "/static/js/main.343ddcb3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cd749d43.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cd749d43.js.map",
+    "static/js/2.6d90e3ed.chunk.js": "/static/js/2.6d90e3ed.chunk.js",
+    "static/js/2.6d90e3ed.chunk.js.map": "/static/js/2.6d90e3ed.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.af8d4ba9722d9d4011f38f954f4b7761.js": "/precache-manifest.af8d4ba9722d9d4011f38f954f4b7761.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.22711d01.chunk.css.map": "/static/css/main.22711d01.chunk.css.map",
+    "static/js/2.6d90e3ed.chunk.js.LICENSE.txt": "/static/js/2.6d90e3ed.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/static/media/girl-in-plane.3618bc67.jpg",
+    "static/media/red-bucket-icon.jpg": "/static/media/red-bucket-icon.9a4a8c9f.jpg",
+    "static/media/sunset-hiker.jpg": "/static/media/sunset-hiker.02d62948.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd749d43.js",
+    "static/js/2.6d90e3ed.chunk.js",
+    "static/css/main.22711d01.chunk.css",
+    "static/js/main.343ddcb3.chunk.js"
+  ]
+}
